@@ -14,7 +14,7 @@
 /log/*.log
 /tmp
 
-# Added from OneMonthRails
+# Added from OneMonthRails.
 doc/
 *.swp
 *~
